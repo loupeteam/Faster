@@ -1,4 +1,10 @@
-
+(*
+ * File: faster.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of Faster, licensed under the MIT License.
+ *)
 {REDUND_ERROR} FUNCTION fasterInit : DINT (* *) (*$GROUP=User,$CAT=User,$GROUPICON=User.png,$CATICON=User.png*)
 	VAR_INPUT
 		pTimeStamps : UDINT;

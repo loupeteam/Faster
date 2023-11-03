@@ -1,3 +1,10 @@
+/*
+ * File: global.h
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of Faster, licensed under the MIT License.
+ */
 extern BOOL fasterInited;
 extern DINT *pFasterTimeStamp;
 extern DINT *pFasterDelta;

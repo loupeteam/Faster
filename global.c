@@ -1,3 +1,10 @@
+/*
+ * File: global.c
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of Faster, licensed under the MIT License.
+ */
 #include "Faster.h"
 
 BOOL fasterInited = 0;
